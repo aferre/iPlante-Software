@@ -1,0 +1,4 @@
+
+Arduino AT328 based sensor device. It polls every x hours for environmental datas around a plante and stores it. It is later retrieved by connecting the device to a USB port of a host computer  (this is for the XBeeless device).
+
+
